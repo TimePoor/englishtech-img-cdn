@@ -1,6 +1,17 @@
 {
   "notices": [
     {
+      "id": "2025-003",
+      "category": "general",
+      "title": "test3",
+      "content": "<p>test33</p><p>12345</p><p>12421</p><p><img src=\"https://raw.githubusercontent.com/TimePoor/englishtech-img-cdn/main/notices/notices_1754157415516_na6kcmy2p1p.png\"></p><p><br></p><p><br></p><p>asdf</p><p><br></p><div class=\"ql-code-block-container\" spellcheck=\"false\" bis_skin_checked=\"1\"><div class=\"ql-code-block\" bis_skin_checked=\"1\">asdfasdf</div></div><p>sadfsfsadf</p><p><br></p><p><br></p><p><a href=\"https://www.naver.com\" rel=\"noopener noreferrer\" target=\"_blank\">asdfsadf</a></p><p><br></p><p><br></p><p><br></p>",
+      "author": "관리자",
+      "date": "2025-08-02",
+      "views": 0,
+      "isNew": true,
+      "images": []
+    },
+    {
       "id": "2025-002",
       "category": "important",
       "title": "test2",

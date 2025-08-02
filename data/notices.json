@@ -1,6 +1,17 @@
 {
   "notices": [
     {
+      "id": "2025-009",
+      "category": "update",
+      "title": "색인123",
+      "content": "<p>1234</p><p><img src=\"https://raw.githubusercontent.com/TimePoor/englishtech-img-cdn/main/notices/notices_1754159593623_8ce9r7ogrrs.jpg\"></p>",
+      "author": "관리자",
+      "date": "2025-08-02",
+      "views": 0,
+      "isNew": true,
+      "images": []
+    },
+    {
       "id": "2025-008",
       "category": "general",
       "title": "test111",

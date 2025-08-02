@@ -4,15 +4,14 @@
       "id": "2025-001",
       "category": "important",
       "title": "test",
-      "content": "<p>test</p><p><img src=\"https://raw.githubusercontent.com/TimePoor/englishtech-img-cdn/main/notices/1754123979165_3i5mn76pqt.jpg\"></p>",
+      "content": "<p>test</p><p><img src=\"https://raw.githubusercontent.com/TimePoor/englishtech-img-cdn/main/notices/1754123979165_3i5mn76pqt.jpg\"></p><p><br></p><p><img src=\"https://raw.githubusercontent.com/TimePoor/englishtech-img-cdn/main/notices/1754126675876_z7qtzq1slun.jpg\"></p>",
       "author": "관리자",
       "date": "2025-08-02",
       "views": 0,
-      "isNew": true,
+      "isNew": false,
       "images": [
         "https://raw.githubusercontent.com/TimePoor/englishtech-img-cdn/main/notices/1754123984284_t1npjwhpn2q.jpg"
       ]
     }
-  ],
-  "lastTest": "2025-08-02T09:20:58.695Z"
+  ]
 }

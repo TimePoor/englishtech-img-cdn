@@ -1,6 +1,17 @@
 {
   "notices": [
     {
+      "id": "2025-011",
+      "category": "general",
+      "title": "1234124124",
+      "content": "<p>124124124</p>",
+      "author": "관리자",
+      "date": "2025-08-02",
+      "views": 0,
+      "isNew": true,
+      "images": []
+    },
+    {
       "id": "2025-010",
       "category": "general",
       "title": "131313",

@@ -1,6 +1,17 @@
 {
   "notices": [
     {
+      "id": "2025-004",
+      "category": "event",
+      "title": "test",
+      "content": "<p>testupdate12345</p><p><br></p><p><br></p><p><img src=\"https://raw.githubusercontent.com/TimePoor/englishtech-img-cdn/main/notices/notices_1754157533627_tzlob94wjer.PNG\"></p>",
+      "author": "관리자",
+      "date": "2025-08-02",
+      "views": 0,
+      "isNew": true,
+      "images": []
+    },
+    {
       "id": "2025-003",
       "category": "general",
       "title": "test3",

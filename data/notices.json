@@ -1,6 +1,17 @@
 {
   "notices": [
     {
+      "id": "2025-005",
+      "category": "important",
+      "title": "124",
+      "content": "<p>124214</p><p>12412412</p><p><br></p><p>asdfsafdsadf</p>",
+      "author": "관리자",
+      "date": "2025-08-02",
+      "views": 0,
+      "isNew": true,
+      "images": []
+    },
+    {
       "id": "2025-004",
       "category": "event",
       "title": "test",

@@ -1,3 +1,13 @@
 {
-  "notices": []
+  "notices": [
+    {
+      "id": "2025-001",
+      "category": "important",
+      "title": "샘플",
+      "content": "<p>1234</p>",
+      "author": "관리자",
+      "date": "2025-08-03",
+      "isNew": true
+    }
+  ]
 }

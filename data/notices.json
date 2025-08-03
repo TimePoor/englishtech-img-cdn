@@ -1,6 +1,15 @@
 {
   "notices": [
     {
+      "id": "2025-003",
+      "category": "important",
+      "title": "업데이트 테스트",
+      "content": "<p>테스트인데</p>",
+      "author": "관리자",
+      "date": "2025-08-03",
+      "isNew": true
+    },
+    {
       "id": "2025-002",
       "category": "important",
       "title": "ㅅㄱㄷㅅㄴㄷ",

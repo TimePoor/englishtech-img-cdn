@@ -3,6 +3,15 @@
     {
       "id": "2025-002",
       "category": "important",
+      "title": "테스트단어",
+      "content": "<p>구</p><p><br></p><p><br></p><p>구단</p>",
+      "author": "관리자",
+      "date": "2025-08-03",
+      "isNew": true
+    },
+    {
+      "id": "2025-002",
+      "category": "important",
       "title": "테스트입니다",
       "content": "<p>테</p><p>스</p><p><br></p><p><br></p><p><br></p><p>트</p>",
       "author": "관리자",

@@ -1,6 +1,15 @@
 {
   "notices": [
     {
+      "id": "2025-002",
+      "category": "important",
+      "title": "샘샘플",
+      "content": "<p>1234</p><p><br></p><p><img src=\"https://raw.githubusercontent.com/TimePoor/englishtech-img-cdn/main/notices/notices_1754193615029_virjcu50a6l.jpg\"></p>",
+      "author": "관리자",
+      "date": "2025-08-03",
+      "isNew": true
+    },
+    {
       "id": "2025-001",
       "category": "important",
       "title": "샘플",

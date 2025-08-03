@@ -1,17 +1,6 @@
 {
   "notices": [
     {
-      "id": "2025-008",
-      "category": "general",
-      "title": "test111",
-      "content": "<p>testdadsf</p>",
-      "author": "관리자",
-      "date": "2025-08-02",
-      "views": 0,
-      "isNew": true,
-      "images": []
-    },
-    {
       "id": "2025-006",
       "category": "important",
       "title": "test4",

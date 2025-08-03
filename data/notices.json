@@ -1,15 +1,6 @@
 {
   "notices": [
     {
-      "id": "2025-007",
-      "category": "important",
-      "title": "ㅅㄷㄴㅅ",
-      "content": "<p>ㅅㄷㄴㅅㄷㄴㅅㄴㄷㅅㄷ<img src=\"https://raw.githubusercontent.com/TimePoor/englishtech-img-cdn/main/notices/notices_1754190625540_hezpgsp72qq.jpg\"><img src=\"https://raw.githubusercontent.com/TimePoor/englishtech-img-cdn/main/notices/notices_1754190621386_1l77wtfmpulj.jpg\"></p>",
-      "author": "관리자",
-      "date": "2025-08-03",
-      "isNew": true
-    },
-    {
       "id": "2025-011",
       "category": "general",
       "title": "1234124124",
@@ -36,17 +27,6 @@
       "category": "general",
       "title": "test111",
       "content": "<p>testdadsf</p>",
-      "author": "관리자",
-      "date": "2025-08-02",
-      "views": 0,
-      "isNew": true,
-      "images": []
-    },
-    {
-      "id": "2025-007",
-      "category": "important",
-      "title": "test232",
-      "content": "<p>test343</p>",
       "author": "관리자",
       "date": "2025-08-02",
       "views": 0,

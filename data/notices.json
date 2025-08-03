@@ -1,6 +1,15 @@
 {
   "notices": [
     {
+      "id": "2025-007",
+      "category": "important",
+      "title": "ㅁㄴㅁㄴㅇㄻㄴㄹ",
+      "content": "<p>14214124124ㅎㅁㄴㅇㄻㄴㅇㄹㄴㅁㅇㄹ</p>",
+      "author": "관리자",
+      "date": "2025-08-03",
+      "isNew": true
+    },
+    {
       "id": "2025-006",
       "category": "important",
       "title": "업데이트소식",

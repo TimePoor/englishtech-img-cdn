@@ -1,15 +1,6 @@
 {
   "notices": [
     {
-      "id": "2025-010",
-      "category": "important",
-      "title": "앙공지띠",
-      "content": "<p><img src=\"https://raw.githubusercontent.com/TimePoor/englishtech-img-cdn/main/notices/notices_1754198175141_a1nj6dqlzhc.PNG\"></p>",
-      "author": "관리자",
-      "date": "2025-08-03",
-      "isNew": true
-    },
-    {
       "id": "2025-009",
       "category": "update",
       "title": "암욜맨",

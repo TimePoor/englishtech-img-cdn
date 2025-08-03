@@ -1,6 +1,15 @@
 {
   "notices": [
     {
+      "id": "2025-014",
+      "category": "important",
+      "title": "이미지테스트10",
+      "content": "<p><img src=\"https://raw.githubusercontent.com/TimePoor/englishtech-img-cdn/main/notices/notices_1754198262284_3tvi6wtev4v.jpg\"></p><p><br></p><p><img src=\"https://raw.githubusercontent.com/TimePoor/englishtech-img-cdn/main/notices/notices_1754198273120_5qnxjz24s79.jpg\"></p>",
+      "author": "관리자",
+      "date": "2025-08-03",
+      "isNew": true
+    },
+    {
       "id": "2025-013",
       "category": "important",
       "title": "동물 친구들을 반났어요~",

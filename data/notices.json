@@ -1,3 +1,13 @@
 {
-  "notices": []
+  "notices": [
+    {
+      "id": "2025-001",
+      "category": "important",
+      "title": "대치킨트영어도서관 공지 샘플입니다.",
+      "content": "<p class=\"ql-align-center\"><img src=\"https://raw.githubusercontent.com/TimePoor/englishtech-img-cdn/main/notices/notices_1754206415267_213vjx04gyn.png\"></p><p class=\"ql-align-center\">샘플 공지입니다.</p>",
+      "author": "관리자",
+      "date": "2025-08-03",
+      "isNew": true
+    }
+  ]
 }

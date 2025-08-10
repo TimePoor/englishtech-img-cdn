@@ -1,6 +1,15 @@
 {
   "notices": [
     {
+      "id": "2025-002",
+      "category": "update",
+      "title": "2025년9월 업데이트 예정 도서 목록",
+      "content": "<p><strong>Dragon Masters (9월1일 업데이트 예정)</strong></p><p><br></p><p><img src=\"https://raw.githubusercontent.com/TimePoor/englishtech-img-cdn/main/notices/notices_1754836803451_njn6uc2p1g.JPG\"></p><p><br></p><p><strong>Merci Suarez Changes Gears (9월15일 업데이트 예정)</strong></p><p><img src=\"https://raw.githubusercontent.com/TimePoor/englishtech-img-cdn/main/notices/notices_1754836872024_v8nor6ubat.PNG\"></p>",
+      "author": "관리자",
+      "date": "2025-08-10",
+      "isNew": true
+    },
+    {
       "id": "2025-001",
       "category": "important",
       "title": "대치킨트영어도서관 공지 샘플입니다.",

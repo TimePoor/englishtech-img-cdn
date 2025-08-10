@@ -1,6 +1,15 @@
 {
   "notices": [
     {
+      "id": "2025-003",
+      "category": "important",
+      "title": "이미지 리사이즈 테스트",
+      "content": "<p>이미지 리사이즈 테스트</p><p><br></p><p>원본</p><p><img src=\"https://raw.githubusercontent.com/TimePoor/englishtech-img-cdn/main/notices/notices_1754843238825_t8uigbsed1b.png\"></p><p><br></p><p>감소</p><p><img src=\"https://raw.githubusercontent.com/TimePoor/englishtech-img-cdn/main/notices/notices_1754843245105_z98liwtcct.png\" width=\"96\" height=\"73\"></p><p><br></p><p>증가</p><p><img src=\"https://raw.githubusercontent.com/TimePoor/englishtech-img-cdn/main/notices/notices_1754843256911_zrvq1gszpw.png\" width=\"319\" height=\"242\"></p>",
+      "author": "관리자",
+      "date": "2025-08-10",
+      "isNew": true
+    },
+    {
       "id": "2025-002",
       "category": "update",
       "title": "2025년 9월 업데이트 예정 도서 목록",

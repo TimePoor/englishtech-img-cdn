@@ -17,15 +17,6 @@
       "author": "관리자",
       "date": "2025-01-13",
       "isNew": false
-    },
-    {
-      "id": "2025-002",
-      "category": "general",
-      "title": "테스트 일반 공지",
-      "content": "<p>일반 공지사항 내용입니다.</p>",
-      "author": "관리자",
-      "date": "2025-01-14",
-      "isNew": false
     }
   ]
 }

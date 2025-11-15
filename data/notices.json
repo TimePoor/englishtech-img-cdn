@@ -8,15 +8,6 @@
       "author": "관리자",
       "date": "2025-11-15",
       "isNew": true
-    },
-    {
-      "id": "2025-003",
-      "category": "event",
-      "title": "테스트 이벤트 공지",
-      "content": "<p>이벤트 공지사항입니다.</p>",
-      "author": "관리자",
-      "date": "2025-01-13",
-      "isNew": false
     }
   ]
 }

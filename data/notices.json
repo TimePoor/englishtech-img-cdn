@@ -10,13 +10,13 @@
       "isNew": true
     },
     {
-      "id": "2025-001",
-      "category": "important",
-      "title": "테스트 중요 공지사항",
-      "content": "<p>이것은 테스트 공지사항입니다.</p>",
+      "id": "2025-003",
+      "category": "event",
+      "title": "테스트 이벤트 공지",
+      "content": "<p>이벤트 공지사항입니다.</p>",
       "author": "관리자",
-      "date": "2025-01-15",
-      "isNew": true
+      "date": "2025-01-13",
+      "isNew": false
     },
     {
       "id": "2025-002",
@@ -25,15 +25,6 @@
       "content": "<p>일반 공지사항 내용입니다.</p>",
       "author": "관리자",
       "date": "2025-01-14",
-      "isNew": false
-    },
-    {
-      "id": "2025-003",
-      "category": "event",
-      "title": "테스트 이벤트 공지",
-      "content": "<p>이벤트 공지사항입니다.</p>",
-      "author": "관리자",
-      "date": "2025-01-13",
       "isNew": false
     }
   ]

@@ -1,6 +1,15 @@
 {
   "notices": [
     {
+      "id": "2025-002",
+      "category": "update",
+      "title": "2025년10월 업데이트 도서 (IVY+BEAN)",
+      "content": "<p>IVY+BEAN</p><p><img src=\"https://raw.githubusercontent.com/TimePoor/englishtech-img-cdn/main/notices/notices_1763525171039_e56jch8g859.png\"></p>",
+      "author": "관리자",
+      "date": "2025-11-19",
+      "isNew": true
+    },
+    {
       "id": "2025-001",
       "category": "update",
       "title": "2025년 9월 업데이트 도서 (Dragon Masters, Changes Gears)",

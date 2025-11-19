@@ -1,3 +1,13 @@
 {
-  "notices": []
+  "notices": [
+    {
+      "id": "2025-001",
+      "category": "update",
+      "title": "2025년 9월 업데이트 도서 (Dragon Masters, Changes Gears)",
+      "content": "<p>1.<span class=\"ql-size-large\">Dragon Masters</span></p><p><img src=\"https://raw.githubusercontent.com/TimePoor/englishtech-img-cdn/main/notices/notices_1763525001922_4fevx6s667j.png\"></p><p><br></p><p>1.<span class=\"ql-size-large\">Changes Gears</span></p><p><img src=\"https://raw.githubusercontent.com/TimePoor/englishtech-img-cdn/main/notices/notices_1763525018901_7hsc46kv1nw.png\"></p>",
+      "author": "관리자",
+      "date": "2025-11-19",
+      "isNew": true
+    }
+  ]
 }

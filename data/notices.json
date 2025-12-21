@@ -1,6 +1,15 @@
 {
   "notices": [
     {
+      "id": "2025-004",
+      "category": "update",
+      "title": "2025년 12월 업데이트 도서 (Elephant&Piggie, The Zack Files, Berenstrain Bears)",
+      "content": "<ol><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span><strong>Elephant&amp;Piggie</strong></li></ol><p class=\"ql-indent-1\"><img src=\"https://raw.githubusercontent.com/TimePoor/englishtech-img-cdn/main/notices/notices_1766283320726_yq3evefe9nh.png\" width=\"411\" height=\"444\"></p><p><br></p><ol><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span><strong>The Zack Files</strong></li></ol><p class=\"ql-indent-1\"><img src=\"https://raw.githubusercontent.com/TimePoor/englishtech-img-cdn/main/notices/notices_1766283578416_kviag5vjd1.png\" width=\"428\" height=\"435\"></p><p><br></p><ol><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span><strong>Berenstrain Bears, Berenstrain Bears- Classics</strong></li></ol><p class=\"ql-indent-1\"><img src=\"https://raw.githubusercontent.com/TimePoor/englishtech-img-cdn/main/notices/notices_1766283720375_niggg0jrj7k.png\" width=\"827\" height=\"422\"></p>",
+      "author": "관리자",
+      "date": "2025-12-21",
+      "isNew": true
+    },
+    {
       "id": "2025-003",
       "category": "update",
       "title": "2025년 11월 업데이트 도서 (George Brown, Dixie)",

@@ -1,15 +1,6 @@
 {
   "notices": [
     {
-      "id": "2026-009",
-      "category": "update",
-      "title": "업데이트 테스트",
-      "content": "<p>테스트이미지<img src=\"https://raw.githubusercontent.com/TimePoor/englishtech-img-cdn/main/notices/notices_1786178964803_pq2fg6h7y7l.JPG\"></p>",
-      "author": "관리자",
-      "date": "2026-08-08",
-      "isNew": true
-    },
-    {
       "id": "2026-008",
       "category": "update",
       "title": "2026년 4월 업데이트 도서 (Diary of a Wimpy Kid, Percy Jackson, Andrew Clements외 3개)",
